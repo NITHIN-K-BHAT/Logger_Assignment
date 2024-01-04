@@ -18,7 +18,7 @@ public class Main {
             String line = "";
             boolean symbolFound = false;
 
-            try (FileInputStream fin = new FileInputStream("C:\\Users\\Nithin.bhat\\Desktop\\nae.txt")) {
+            try (FileInputStream fin = new FileInputStream("C:\\Users\\Nithin.bhat\\Desktop\\name.txt")) {
                 Scanner sc = new Scanner(fin);
 
                 while (sc.hasNextLine()) {

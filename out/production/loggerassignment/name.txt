@@ -1,0 +1,10 @@
+
+@	at_the_rate
+!	not
+=	equal
+#	hash
+%	percentage
+$	dollar
+*	star
+(	open_bracket
+)	close_bracket

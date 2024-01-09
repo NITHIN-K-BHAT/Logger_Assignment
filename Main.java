@@ -26,12 +26,9 @@ public class Main {
             sid = s.next();
             String line = "";
             boolean symbolFound = false;
-//
-//<<<<<<< HEAD
+
             try (FileInputStream fin = new FileInputStream("C:\\Users\\Nithin.bhat\\Desktop\\loggerassignment\\nme.txt")) {
-//=======
-//            try (FileInputStream fin = new FileInputStream("C:\\Users\\Nithin.bhat\\Desktop\\name.txt")) {
-//>>>>>>> c04ea8e7a40289fcf05bccd3cb2d8785bf5bec4b
+
                 Scanner sc = new Scanner(fin);
 
 //
